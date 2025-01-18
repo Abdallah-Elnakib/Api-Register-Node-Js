@@ -1,6 +1,6 @@
 1 ) To send req to api :
 
-  url  => http://127.0.0.1:{port}/register
+  url  => http://127.0.0.1:${port}/register
   
   send body json  => {
     "first_name": "",
