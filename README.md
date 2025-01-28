@@ -16,12 +16,10 @@
 2 ) To download the API on your device :
 
   The first step: 
-  After downloading the file, we use the npm init command To enable npm in your project.
   
-  The second step:
   Use npm install command Until all libraries used in the project are loaded.
   
-  The third step:
+ The second step:
   Create an .env file So that all your data can be added to it.
   
   In this file you need to create four variables with the following names:
